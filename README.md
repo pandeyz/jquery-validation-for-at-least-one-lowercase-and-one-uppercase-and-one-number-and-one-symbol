@@ -1,0 +1,1 @@
+# jquery-validation-for-at-least-one-lowercase-and-one-uppercase-and-one-number-and-one-symbol
